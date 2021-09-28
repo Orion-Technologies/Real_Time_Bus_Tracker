@@ -1,8 +1,8 @@
 # Real Time Bus Tracker
-A little route between my house and the First Gas Station in the route to my work.
+A little route between MIT and the Harvard university.
 
 ## Description
-This is a example of real time tracker, this app show you the route between my house and one gas station on my route to my work.
+This is a example of real time tracker, this app show you the route between MIT and Harvard university, the route is given by js file.
 
 ## How to Run
 On the left side up screen there is a text with a little description. Go to over it and click on it and wait to movement start.
